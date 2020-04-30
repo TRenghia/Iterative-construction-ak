@@ -1,5 +1,5 @@
 # Iterative-construction-ak
-A Mathematica implementation of Savo’s algorithm for the computation of the heat content asymptotics
+## A Mathematica implementation of Savo’s algorithm for the computation of the heat content asymptotics
 
 Find attached the Mathematica notebook "Algorithm ak final". 
 
